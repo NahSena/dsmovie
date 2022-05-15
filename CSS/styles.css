@@ -31,7 +31,7 @@ nav {
     justify-content: space-between;
 }
 nav h1 {
-    font.size: 24px;
+    font-size: 24px;
     font-weight: 700;
 }
 nav a{
@@ -88,4 +88,8 @@ a, a:hover {
     align-items: center;
     justify-content: center;
     border-radius: 4px;
+}
+.dsmovie-form-container{
+    padding: 40px 0;
+    max-width: 480px;
 }
